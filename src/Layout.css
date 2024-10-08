@@ -1,0 +1,38 @@
+.container {
+    background-color: #282c34; /* Dark background for the main container */
+    min-height: 100vh; /* Full viewport height */
+    padding: 0; /* Remove default padding */
+}
+
+.navbar {
+    padding: 15px; /* Add padding to navbar */
+}
+
+.navbar-brand {
+    font-size: 24px; /* Increase brand font size */
+}
+
+.nav-link {
+    font-size: 18px; /* Increase font size of nav links */
+    margin-left: 15px; /* Space between links */
+}
+
+.nav-link:hover {
+    text-decoration: underline; /* Underline effect on hover */
+    color: #ff4757; /* Change color on hover */
+}
+
+.row {
+    margin-top: 20px; /* Space above the main content area */
+}
+
+.col.m-3 {
+    background-color: #ffffff; /* White background for content area */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Padding inside content area */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+h2 {
+    color: #ff4757; /* Title color */
+}
