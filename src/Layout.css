@@ -1,38 +1,36 @@
 .container {
-    background-color: #282c34; /* Dark background for the main container */
-    min-height: 100vh; /* Full viewport height */
-    padding: 0; /* Remove default padding */
+    background-color: #282c34; 
+    min-height: 100vh; 
+    padding: 0; 
 }
 
 .navbar {
-    padding: 15px; /* Add padding to navbar */
+    padding: 15px; 
 }
 
 .navbar-brand {
-    font-size: 24px; /* Increase brand font size */
+    font-size: 24px; 
 }
 
 .nav-link {
-    font-size: 18px; /* Increase font size of nav links */
-    margin-left: 15px; /* Space between links */
-}
+    font-size: 18px; 
 
 .nav-link:hover {
-    text-decoration: underline; /* Underline effect on hover */
-    color: #ff4757; /* Change color on hover */
+    text-decoration: underline;
+    color: #ff4757; 
 }
 
 .row {
-    margin-top: 20px; /* Space above the main content area */
+    margin-top: 20px; 
 }
 
 .col.m-3 {
-    background-color: #ffffff; /* White background for content area */
-    border-radius: 10px; /* Rounded corners */
-    padding: 20px; /* Padding inside content area */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    background-color: #ffffff; 
+    border-radius: 10px; 
+    padding: 20px; 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
 }
 
 h2 {
-    color: #ff4757; /* Title color */
+    color: #ff4757;
 }
